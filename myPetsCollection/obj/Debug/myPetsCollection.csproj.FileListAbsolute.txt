@@ -1,0 +1,49 @@
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\bin\Debug\myPetsCollection.exe.config
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\bin\Debug\myPetsCollection.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\bin\Debug\myPetsCollection.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\obj\Debug\myPetsCollection.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\obj\Debug\myPetsCollection.Views.MainView.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\obj\Debug\myPetsCollection.Views.PetView.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\obj\Debug\myPetsCollection.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\obj\Debug\myPetsCollection.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\obj\Debug\myPetsCollection.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\obj\Debug\myPetsCollection.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\obj\Debug\myPetsCollection.exe.licenses
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\obj\Debug\myPetsCollection.csproj.CopyComplete
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\FP5\myPetsCollection\obj\Debug\myPetsCollection.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\bin\Debug\myPetsCollection.exe.config
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\bin\Debug\myPetsCollection.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\bin\Debug\myPetsCollection.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\obj\Debug\myPetsCollection.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\obj\Debug\myPetsCollection.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\obj\Debug\myPetsCollection.Views.MainView.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\obj\Debug\myPetsCollection.Views.PetView.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\obj\Debug\myPetsCollection.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\obj\Debug\myPetsCollection.exe.licenses
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\obj\Debug\myPetsCollection.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\obj\Debug\myPetsCollection.csproj.CopyComplete
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\obj\Debug\myPetsCollection.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\Final Project\myPetsCollection\obj\Debug\myPetsCollection.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\myPetCollection\myPetsCollection\bin\Debug\myPetsCollection.exe.config
+D:\Kuliah\Semester 3\Pemrograman Lanjut\myPetCollection\myPetsCollection\bin\Debug\myPetsCollection.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\myPetCollection\myPetsCollection\bin\Debug\myPetsCollection.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\myPetCollection\myPetsCollection\obj\Debug\myPetsCollection.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\myPetCollection\myPetsCollection\obj\Debug\myPetsCollection.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\myPetCollection\myPetsCollection\obj\Debug\myPetsCollection.Views.MainView.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\myPetCollection\myPetsCollection\obj\Debug\myPetsCollection.Views.PetView.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\myPetCollection\myPetsCollection\obj\Debug\myPetsCollection.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\myPetCollection\myPetsCollection\obj\Debug\myPetsCollection.exe.licenses
+D:\Kuliah\Semester 3\Pemrograman Lanjut\myPetCollection\myPetsCollection\obj\Debug\myPetsCollection.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\myPetCollection\myPetsCollection\obj\Debug\myPetsCollection.csproj.CopyComplete
+D:\Kuliah\Semester 3\Pemrograman Lanjut\myPetCollection\myPetsCollection\obj\Debug\myPetsCollection.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\myPetCollection\myPetsCollection\obj\Debug\myPetsCollection.pdb
